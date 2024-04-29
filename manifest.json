@@ -1,0 +1,6 @@
+{
+    "short_name": "test-notifications",
+    "name": "testing notifications",
+    "start_url": "/",
+    "display": "standalone"
+}
